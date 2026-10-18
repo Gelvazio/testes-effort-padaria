@@ -12,8 +12,10 @@
 - ⛔ Quem responde o desafio **não executa código** (Python, Node, planilha, calculadora de shell):
   resolve raciocinando e mostra as contas.
 - ⛔ Não mudar os números de `dados/` nem o `DESAFIO.md` depois que as rodadas começarem: o
-  gabarito (etapa 003 do `rules-ai`) depende deles.
-- O gabarito **não** fica nesta pasta.
+  gabarito (`C:/fontes/rules-ai/gabaritos/EFFORT-PADARIA.md`) depende deles.
+- O gabarito **não** fica nesta pasta. Ele fica em `C:/fontes/rules-ai/gabaritos/EFFORT-PADARIA.md`.
+- Quadro de tarefas: `tasks/STATUS.md` (+ `task_complete.md` e `etapas/`). Quem responde o
+  desafio **não lê** `tasks/`: só `dados/` e `DESAFIO.md`.
 
 <!-- rules-local:inicio -->
 ## Regras globais (rules-local)

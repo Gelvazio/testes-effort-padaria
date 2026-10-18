@@ -4,7 +4,8 @@ Projeto **simples e fictício** usado só para medir se o esforço de raciocíni
 `medium`, `high`) muda o resultado dos modelos de IA. Não é um sistema: não tem código, banco nem
 tela. Tem só os dados da padaria e um desafio de planejamento.
 
-Tarefa no quadro global: `EFFORT-PADARIA` em `C:/fontes/rules-ai/tasks/STATUS.md` (etapa 003).
+Tarefa no quadro deste projeto: `EFFORT-PADARIA` em `tasks/STATUS.md` (etapa 001). Gabarito fora
+do projeto: `C:/fontes/rules-ai/gabaritos/EFFORT-PADARIA.md`.
 
 ## Estrutura
 
@@ -19,5 +20,6 @@ Tarefa no quadro global: `EFFORT-PADARIA` em `C:/fontes/rules-ai/tasks/STATUS.md
 ## Como usar no teste
 
 1. Abrir uma conversa nova com o modelo e o `effort` da rodada.
-2. Mandar ler **só esta pasta** e responder o `DESAFIO.md` **sem executar código**.
-3. Anotar tokens, tempo e a resposta na etapa 003 do `rules-ai`, que guarda o gabarito.
+2. Mandar ler **só `dados/` e `DESAFIO.md`** (não `tasks/`) e responder o `DESAFIO.md` **sem executar código**.
+3. Conferir a resposta contra o gabarito do `rules-ai` e anotar tokens, tempo e nota na etapa
+   001 deste projeto (`tasks/etapas/`).
